@@ -9,7 +9,7 @@ Un espacio interactivo diseñado para el desarrollo y simulación de proyectos l
 
 La organización de los archivos y carpetas en este repositorio se distribuye de la siguiente manera:
 
-text
+```text
 ├── index.html                           # Página de inicio y bienvenida principal
 ├── css/
 │   ├── index.css                        # Estilos y reglas responsivas del Inicio
